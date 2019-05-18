@@ -1,3 +1,1 @@
-# sweater
-
-Video 8. Lets Code Admin And Roles
+# Sweater Video 8. Lets Code Admin And Roles
